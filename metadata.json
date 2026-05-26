@@ -1,0 +1,6 @@
+{
+  "name": "Skill Trade Board",
+  "description": "An elite peer-to-peer student collaboration platform for exchanging skills, forming project teams, and building reputation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
